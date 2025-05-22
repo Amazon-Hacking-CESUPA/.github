@@ -33,17 +33,6 @@ Os repositórios desta organização utilizam, conforme a necessidade:
 
 ---
 
-## 🔖 Estrutura de Repositórios
-
-A organização é composta por repositórios específicos para:
-
-- Infraestrutura e deploy.
-- Documentação de processos.
-
-Cada repositório possui orientações próprias em seu respectivo `README.md`.
-
----
-
 ## ✅ Boas Práticas
 
 Para manter a consistência e qualidade do trabalho:
